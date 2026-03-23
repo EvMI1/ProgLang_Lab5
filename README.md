@@ -12,9 +12,9 @@
 
 ### Тестирование
 
-![Снимок экрана 2026-03-23 в 23.41.17.png]()
+![Снимок экрана 2026-03-23 в 23.41.17.png](https://github.com/EvMI1/ProgLang_Lab5/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-03-23%20%D0%B2%2023.41.17.png)
 
-![Снимок экрана 2026-03-23 в 23.43.57.png]()
+![Снимок экрана 2026-03-23 в 23.43.57.png](https://github.com/EvMI1/ProgLang_Lab5/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-03-23%20%D0%B2%2023.43.57.png)
 
 # Задание 2
 
@@ -28,7 +28,7 @@
 
 ### Тестирование
 
-![Снимок экрана 2026-03-23 в 23.46.51.png]()
+![Снимок экрана 2026-03-23 в 23.46.51.png](https://github.com/EvMI1/ProgLang_Lab5/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-03-23%20%D0%B2%2023.46.51.png)
 
 
 # Задание 3
@@ -43,11 +43,11 @@
 
 ### Тестирование
 
-![Снимок экрана 2026-03-24 в 00.01.07.png]()
+![Снимок экрана 2026-03-24 в 00.01.07.png](https://github.com/EvMI1/ProgLang_Lab5/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-03-24%20%D0%B2%2000.01.07.png)
 
-![Снимок экрана 2026-03-24 в 00.02.21.png]()
+![Снимок экрана 2026-03-24 в 00.02.21.png](https://github.com/EvMI1/ProgLang_Lab5/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-03-24%20%D0%B2%2000.02.21.png)
 
-![Снимок экрана 2026-03-24 в 00.03.59.png]()
+![Снимок экрана 2026-03-24 в 00.03.59.png](https://github.com/EvMI1/ProgLang_Lab5/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-03-24%20%D0%B2%2000.03.59.png)
 
 # Задание 4
 
@@ -61,4 +61,4 @@
 
 ### Тестирование
 
-![Снимок экрана 2026-03-24 в 00.06.13.png]()
+![Снимок экрана 2026-03-24 в 00.06.13.png](https://github.com/EvMI1/ProgLang_Lab5/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-03-24%20%D0%B2%2000.06.13.png)
